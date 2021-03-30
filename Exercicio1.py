@@ -1,5 +1,4 @@
-#Aluna: Noani Barbieri
-#Materia: Eletromagnetismo 2
+#Noani Barbieri
 
 #Definindo a biblioteca
 import math
